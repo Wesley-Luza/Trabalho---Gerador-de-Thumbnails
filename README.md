@@ -43,3 +43,8 @@ Compilando:
 Depois de Compilar:
 
 <img width="50" height="100" alt="thumb_boathouse-9871057_1280" src="https://github.com/user-attachments/assets/28be876f-813c-4147-8e41-a4638e74d79c" />
+
+# EXTRA:
+Deixo compartilhado em anexo também, uma versão do trabalho em python, que executa um aplicativo com a mesma finalidade do trabalho feito em linguagem C. Na pasta tem:
+- gerador_thumbnails.py = aplicativo que gera thumbnails.
+- pasta imagens = as imagens para se utilizar no app.
