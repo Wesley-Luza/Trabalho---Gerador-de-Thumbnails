@@ -17,11 +17,17 @@ Abra um terminal na pasta do projeto e rode:
 ```
 - gcc attGeradorThumbnails.c -o gerador -lm
 ```
+> Os arquivos `stb_image.h` e `stb_image_write.h` (biblioteca *stb*) devem estar na pasta do projeto. Faça o download em: https://github.com/nothings/stb
+
+## Requisitos para Compilação
+
+- GCC (ou outro compilador C compatível com POSIX). No Windows recomendo usar o MinGW ou WSL.
+- Arquivos `stb_image.h` e `stb_image_write.h` no mesmo diretório do código.
 
 ## Estrutura do projeto
-AttGeradorThumbnails/
-├── attGeradorThumbnails.c = Programa que gera as thumbnails.
-├── stb_image.h = Repositório usado para compilar o programa.
-├── stb_image_write.h = Repositório usado para compilar o programa.
-└── imagens/ = pasta de exemplo com suas imagens
-├── imagens usadas como exemplo (.jpg)
+- AttGeradorThumbnails/
+- ├── attGeradorThumbnails.c = Programa que gera as thumbnails.
+- ├── stb_image.h = Repositório usado para compilar o programa.
+- ├── stb_image_write.h = Repositório usado para compilar o programa.
+- └── imagens/ = pasta de exemplo com suas imagens
+- ├── imagens usadas como exemplo (.jpg)
