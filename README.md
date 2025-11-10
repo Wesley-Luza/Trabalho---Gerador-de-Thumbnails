@@ -1,5 +1,6 @@
-# Trabalho---Gerador-de-Thumbnails
+# Trabalho-Gerador-de-Thumbnails
 Este trabalho foi realizado na matéria de Algoritmos e Programação II, com o objetivo de realizar um criador de thumbnails, em qualquer tamanho de imagem.
+Realizado por: Wesley Luza e Jean Carlos Pegoraro.
 
 ## Objetivo:
 Criar, em linguagem C, um método que modifica uma imagem, podendo converte-lá em qualquer tamanho, podendo deixar como thumbnail.
@@ -31,3 +32,13 @@ Abra um terminal na pasta do projeto e rode:
 - ├── stb_image_write.h = Repositório usado para compilar o programa.
 - └── imagens/ = pasta de exemplo com suas imagens
 - ├── imagens usadas como exemplo (.jpg)
+
+## Imagens do Programa:
+Antes de compilar:
+![boathouse-9871057_1280](https://github.com/user-attachments/assets/5eb9f831-d994-452c-a152-b72fa62c824d)
+
+Compilando:
+<img width="1115" height="174" alt="image" src="https://github.com/user-attachments/assets/70631daa-9f97-48c0-aa68-47b701592529" />
+
+Depois de Compilar:
+<img width="50" height="100" alt="thumb_boathouse-9871057_1280" src="https://github.com/user-attachments/assets/28be876f-813c-4147-8e41-a4638e74d79c" />
