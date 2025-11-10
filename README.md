@@ -41,4 +41,5 @@ Compilando:
 <img width="1115" height="174" alt="image" src="https://github.com/user-attachments/assets/70631daa-9f97-48c0-aa68-47b701592529" />
 
 Depois de Compilar:
+
 <img width="50" height="100" alt="thumb_boathouse-9871057_1280" src="https://github.com/user-attachments/assets/28be876f-813c-4147-8e41-a4638e74d79c" />
